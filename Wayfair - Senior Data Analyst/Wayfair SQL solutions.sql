@@ -1,6 +1,5 @@
 
 # SQL Questions by Wayfair
-# SQL online IDE: https://sqliteonline.com/
 
 CREATE TABLE table1(
    emp_id     INTEGER  NOT NULL PRIMARY KEY 
